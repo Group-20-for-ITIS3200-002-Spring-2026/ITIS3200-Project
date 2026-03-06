@@ -2,10 +2,13 @@
 Python-based.
 
 To-do:
--Text Encryption/Decryption
--Image Encryption/Decryption
--IP-based Send/Receive
--Main Method
--Simulation
+1. Text Encryption/Decryption
+2. Image Encryption/Decryption
+3. IP-based Send/Receive Messaging
+4. Main Method
+5. Simulation
 
 Roles:
+James: 3
+Abhinav: 1
+Gabe: 2
